@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+
+.card{
+  margin-left: 650px;
+  margin-top: 100px;
+  width: 30vw;
+  height: 50vh;
+  background-color: rgb(40, 48, 66);
+}
